@@ -7,16 +7,14 @@
     <title>Document</title>
 </head>
 <body>
-        <style>
-        body {
+<style>
+    body {
     background-color: greenyellow;
 }
-
 button {
     width: 50px;
     height: 50px;
 }
-
 input {
     width: 90px;
 }</style>
