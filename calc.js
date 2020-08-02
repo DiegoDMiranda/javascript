@@ -7,6 +7,19 @@
     <title>Document</title>
 </head>
 <body>
+        <style>
+        body {
+    background-color: greenyellow;
+}
+
+button {
+    width: 50px;
+    height: 50px;
+}
+
+input {
+    width: 90px;
+}</style>
     <span>Dig1 : </span><input type="number" id="n1">
     <span>Dig2 : </span><input type="number" id="n2">
     <br>
